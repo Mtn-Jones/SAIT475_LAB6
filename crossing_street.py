@@ -1,4 +1,4 @@
-# %%
+# %% Crossing the Streets
 from durable.lang import *
 
 with ruleset("crossing_street"):
